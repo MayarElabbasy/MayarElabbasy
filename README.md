@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Advanced topics at the Front-end specialization**
 
-- 📫 How to reach me **mayar.elabbasy@e-butler.com | https://www.linkedin.com/in/mayar-elabbasy-453b0917b/**
+- 📫 How to reach me **mayar.elabbasy@e-butler.com | https://www.linkedin.com/in/mayar-elabbasy/**
 
 - 💬 You can check my personal GitHub account if you wish so, and I would be glad to hear any suggestions or to discuss any technical topic with you [https://github.com/Mayar-Elabbasy](https://github.com/Mayar-Elabbasy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayar-elabbasy-453b0917b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayar-elabbasy-453b0917b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayar-elabbasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayar-elabbasy-453b0917b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mayarelabbasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayarelabbasy" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/profile/9868739" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="9868739" height="40" width="40" /></a>
 </p>
